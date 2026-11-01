@@ -2,9 +2,13 @@
 
 # 👋 Hi, I'm Nazar ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=nazar-pa)
 
+📫 Open to full-time or contract-to-hire opportunities
+
 ### Frontend Developer | Angular · TypeScript · Full-Stack Development
 
 I'm a software developer with experience building web applications using Angular, TypeScript, Java, and Spring Boot. I enjoy creating maintainable software, improving developer experience, and building reusable components that help teams deliver better products.
+
+I'm a lifelong student at heart; If I could be paid to stay in school, I would. That being said, I'm a frontend engineer who spends a lot of time letting my curiosity lead in growth while taming it just enough that I'm not chasing the next shiny tool. I learn best by diving into new tools, trying them out in personal projects. I've worked with companies in the healtcare, automotive industries rebuilding older websites, improving accessibility, and implementing SEO practices on the frontend. 
 
 I'm particularly interested in frontend architecture, design systems, component libraries, and scalable web applications.
 
@@ -29,23 +33,7 @@ I'm particularly interested in frontend architecture, design systems, component 
 - Unit testing, end-to-end testing
 - Code reviews, debugging, CI/CD
 
-## 💼 Professional Experience
-
-### Software Developer | May 2025 – November 2025
-- Developed and maintained Angular components for an ERP SaaS application.
-- Worked with Angular, TypeScript, Java, and Spring Boot.
-- Migrated legacy AngularJS components to modern Angular.
-- Investigated rendering issues and REST API integration problems.
-- Developed end-to-end tests using Playwright.
-
-### Technical Consultant | December 2021 – April 2025
-- Developed CRM features using Angular and TypeScript.
-- Introduced Nx tooling and build caching to improve development workflows.
-- Reduced build and test times by approximately 50% through caching and the removal of dead code and circular dependencies.
-- Worked with Java, SQL, and PostgreSQL to build customer information solutions.
-- Wrote unit tests using JUnit and Mockito and worked with Docker-based environments.
-
-## 🚀 Featured Projects
+<img width="2153" height="496" alt="image_472bcb81" src="https://github.com/user-attachments/assets/a5c0f6a0-9eab-4c04-b4b5-42c67f92db0a" />
 
 ### Masinim.com
 A car marketplace project focused on building a modern web application with search-engine-friendly pages, listing management, image processing, and a scalable backend.
