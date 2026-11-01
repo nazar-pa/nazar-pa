@@ -1,4 +1,6 @@
-# Hi, I'm [Your Name] 👋
+![Uploading Frontend Engineering Portfolio Banner.png…]()
+
+# 👋 Hi, I'm Nazar 👋
 
 ### Frontend Developer | Angular · TypeScript · Full-Stack Development
 
