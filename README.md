@@ -1,4 +1,4 @@
-<img width="1774" height="887" alt="Frontend Engineering_ Architecture to Interface" src="https://github.com/user-attachments/assets/d6b94eb0-45db-4972-ae7e-38908cbb8332" />
+<img width="2048" height="512" alt="image_f38cd5a8" src="https://github.com/user-attachments/assets/bae3d77a-3266-4c6e-ae05-488d70392f89" />
 
 # 👋 Hi, I'm Nazar 👋
 
