@@ -1,4 +1,5 @@
-![Uploading Frontend Engineering Portfolio Banner.png…]()
+<img width="1983" height="793" alt="Frontend Engineering Portfolio Banner" src="https://github.com/user-attachments/assets/8a4a10d6-d295-4f21-b348-49db9e13cc7d" />
+
 
 # 👋 Hi, I'm Nazar 👋
 
