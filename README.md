@@ -1,6 +1,6 @@
 <img width="2048" height="512" alt="image_f38cd5a8" src="https://github.com/user-attachments/assets/bae3d77a-3266-4c6e-ae05-488d70392f89" />
 
-# 👋 Hi, I'm Nazar 👋
+# 👋 Hi, I'm Nazar https://komarev.com/ghpvc/?username=nazar-pa
 
 ### Frontend Developer | Angular · TypeScript · Full-Stack Development
 
