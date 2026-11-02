@@ -47,7 +47,7 @@ A learning and portfolio project exploring SAP ABAP, CDS views, the RESTful ABAP
 
 **Technologies:** ABAP, CDS, RAP, OData, SAP BTP
 
-[View repository]([YOUR_REPOSITORY_URL](https://github.com/nazar-pa/books-rap-fiori))
+[View repository](https://github.com/nazar-pa/books-rap-fiori)
 
 ## 📚 Currently Exploring
 
