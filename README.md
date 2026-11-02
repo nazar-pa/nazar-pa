@@ -6,8 +6,6 @@
 
 ### Frontend Developer | Angular · TypeScript · Full-Stack Development
 
-I'm a software developer with experience building web applications using Angular, TypeScript, Java, and Spring Boot. I enjoy creating maintainable software, improving developer experience, and building reusable components that help teams deliver better products.
-
 I'm a lifelong student at heart; If I could be paid to stay in school, I would. That being said, I'm a frontend engineer who spends a lot of time letting my curiosity lead in growth while taming it just enough that I'm not chasing the next shiny tool. I learn best by diving into new tools, trying them out in personal projects. I've worked with companies in the healtcare, automotive industries rebuilding older websites, improving accessibility, and implementing SEO practices on the frontend. 
 
 I'm particularly interested in frontend architecture, design systems, component libraries, and scalable web applications.
