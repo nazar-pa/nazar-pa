@@ -55,7 +55,7 @@ A learning and portfolio project exploring SAP ABAP, CDS views, the RESTful ABAP
 
 ## 🤝 Let's Connect
 
-- LinkedIn: [[Your LinkedIn URL](YOUR_LINKEDIN_URL)](https://www.linkedin.com/in/nazar-pashayev/)
+- LinkedIn: [My LinkedIn URL](https://www.linkedin.com/in/nazar-pashayev/)
 - Email: nazar.pashayev@gmail.com
 
 <!--
