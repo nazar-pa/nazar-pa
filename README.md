@@ -47,21 +47,16 @@ A learning and portfolio project exploring SAP ABAP, CDS views, the RESTful ABAP
 
 **Technologies:** ABAP, CDS, RAP, OData, SAP BTP
 
-[View repository](YOUR_REPOSITORY_URL)
+[View repository]([YOUR_REPOSITORY_URL](https://github.com/nazar-pa/books-rap-fiori))
 
 ## 📚 Currently Exploring
 
 - SAP ABAP and the RESTful ABAP Programming Model
-- Frontend architecture and design systems
-- Reusable, accessible UI components
-- Modern Angular development patterns
 
 ## 🤝 Let's Connect
 
-- LinkedIn: [Your LinkedIn URL](YOUR_LINKEDIN_URL)
-- Email: YOUR_EMAIL_ADDRESS
-- GitHub: [@YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
-## Hi there 👋
+- LinkedIn: [[Your LinkedIn URL](YOUR_LINKEDIN_URL)](https://www.linkedin.com/in/nazar-pashayev/)
+- Email: nazar.pashayev@gmail.com
 
 <!--
 **Nazar-Pa/nazar-pa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
